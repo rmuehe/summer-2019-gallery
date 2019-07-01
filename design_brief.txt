@@ -1,52 +1,82 @@
 Ryan Muehe
 
-Galleries:
-A) Physical Training
+Some color ideas for already built portfolio pages:
+- keep the same brown-orange background
+- Text color should be warm and complementary.
+	- and the orange or pink I'm using already. 
+	-But I hope not to have text.
+
+
+http://merijnhos.com/
+-illustrator with a simple gallery showcasing work
+-like the spacing and no-nonsense text descriptions
+-dislike white backgrounds, makes my eyes bleed
+
+the same person's portfolio with responsive design:
+http://www.hugoandmarie.com/artist/merijn-hos/
+-like the image resizing and the nav pinned to the side
+- dislike the italicized font of the descriptions and the white background
+
+https://velvetspectrum.com/projects
+-like the black background and the lack of spacing between images, which is responsive also
+-dislike the images, but nothing else: unassuming and works.
+
+
+
+Galleries: 
+-These would be linked from the existing Projects page
+-and all have the same style
+
+A) Physical Training (a hobby page not yet drafted)
 
 5 things about training:
 
 1) Full Range of Motion
-
 2) Progressive Overload
 -Intensity:
---limit rest intervals
+--limit rest intervals (HIIT)
 --increase resistance (strength training)
---increase reps (GVT)
+--increase quantity of reps (GVT)
 --increase explosivity
 	-Control the Weight: is better for beginners
 --slow down the negative
-
 3) Learn How to Fail Safely
-
 4) Fail Safely Often
 -Anywhere from 5-15 reps
 -Or max around 30 secs
-
 5) Change Modality Without Results
 
 
 https://www.pexels.com/photo/woman-in-yoga-position-2417468/
-https://www.pexels.com/photo/man-performing-on-skate-park-2422264/
-https://www.pexels.com/photo/photo-of-person-skiing-on-snowfield-2433353/
-https://www.pexels.com/photo/person-underwater-2412715/
-https://www.pexels.com/photo/man-doing-skateboard-trick-2398616/
+https://www.pexels.com/photo/topless-man-in-grey-shorts-931323/
+https://www.pexels.com/photo/fitness-power-man-person-17840/
+https://www.pexels.com/photo/adult-athlete-body-bodybuilding-414029/
 https://www.pexels.com/photo/photo-of-woman-doing-yoga-2294353/
 https://www.pexels.com/photo/man-using-barbell-2261482/
-https://www.pexels.com/photo/people-hiking-near-mountains-2259810/
-https://www.pexels.com/photo/man-surfing-on-sea-2261967/
+https://www.pexels.com/photo/woman-doing-crossfit-2294400/
+https://www.pexels.com/photo/woman-in-black-sleeveless-crop-top-and-white-leggings-using-a-butterfly-machine-in-front-of-a-mirror-1111304/
 https://www.pexels.com/photo/topless-man-in-black-pants-running-2098007/
-
+https://www.pexels.com/photo/action-active-activity-adult-348489/
 
 B) Deodorant
 
 C) Pessimism
+-existing images arrayed at the top of the page
 
-D) Keto
+D) Keto (another unmade hobby page)
+
+https://www.pexels.com/photo/person-slicing-meat-on-cutting-board-1881336/
+https://www.pexels.com/photo/almond-nut-organic-unshelled-1171555/
+https://www.pexels.com/photo/cooking-eggs-food-fried-eggs-236812/
+https://www.pexels.com/photo/person-holding-brown-wooden-bowl-with-vegetable-salad-inside-1260307/
+https://www.pexels.com/photo/selective-focus-photo-of-cheese-and-grater-on-plate-1435184/
+https://www.pexels.com/photo/sausages-grilling-2126578/
 
 https://www.pexels.com/photo/bowl-of-vegetables-2280620/
 https://www.pexels.com/photo/top-view-photo-of-sliced-avocado-2111987/
 
-E) People Who Stare At the Camera
+E) People Who Stare At the Camera (joke collection of images) 
+I might make as gallery and set it to the background
 
 https://www.pexels.com/photo/woman-lying-on-red-flowers-2235070/
 https://www.pexels.com/photo/unknown-celebrity-taking-selfie-2267088/
