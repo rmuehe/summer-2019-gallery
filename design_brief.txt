@@ -1,4 +1,6 @@
 Ryan Muehe
+Project 4: Galleries
+7/1/19
 
 Some color ideas for already built portfolio pages:
 - keep the same brown-orange background
@@ -27,7 +29,10 @@ Galleries:
 -These would be linked from the existing Projects page
 -and all have the same style
 
+(However, I ended up with galleries on 3 webpages: the Projects page, the Resistance training page, the Keto page and none have the same style, see included wireframes)
+
 A) Physical Training (a hobby page not yet drafted)
+(Gallery completed)
 
 5 things about training:
 
@@ -59,11 +64,14 @@ https://www.pexels.com/photo/topless-man-in-black-pants-running-2098007/
 https://www.pexels.com/photo/action-active-activity-adult-348489/
 
 B) Deodorant
+(Gallery update not completed)
 
 C) Pessimism
 -existing images arrayed at the top of the page
+(Gallery update not completed)
 
 D) Keto (another unmade hobby page)
+(Gallery completed)
 
 https://www.pexels.com/photo/person-slicing-meat-on-cutting-board-1881336/
 https://www.pexels.com/photo/almond-nut-organic-unshelled-1171555/
@@ -76,7 +84,8 @@ https://www.pexels.com/photo/bowl-of-vegetables-2280620/
 https://www.pexels.com/photo/top-view-photo-of-sliced-avocado-2111987/
 
 E) People Who Stare At the Camera (joke collection of images) 
-I might make as gallery and set it to the background
+I might make as gallery and set it to the background.
+(Not completed)
 
 https://www.pexels.com/photo/woman-lying-on-red-flowers-2235070/
 https://www.pexels.com/photo/unknown-celebrity-taking-selfie-2267088/
